@@ -80,7 +80,7 @@ header h2 span {
 }
 
 #about p {
-	font-size: ;
+	font-size: 21px;
 	color: #7f7f7f;
 	line-height: 40px;
 	padding-left:  50px;
@@ -144,15 +144,17 @@ header h2 span {
     font-size: 36px;
     line-height: 44px;
 }
+
 #contact #email-header{
     font-size: 32px;
     font-weight: 400;
     line-height: 44px;
     margin: -30px 0 5px 0;
 }
+
 #contact #socialmedia-header {
     font-weight: bold;
-    font-size: 28px
+    font-size: 28px;
     line-height: 44px;
     margin: 40px 0 0 0;
 }
